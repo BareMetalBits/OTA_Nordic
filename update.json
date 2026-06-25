@@ -1,9 +1,7 @@
 {
-  "version": "1.1.0",
-  "date": "2023-04-15",
-  "time": "16:30:00",
-  "data": {
-    "key1": "value1",
-    "key2": "value2"
-  }
+  "version": "1.2.0",
+  "file_size": 123456,
+  "fw_path": "/BareMetalBits/OTA_Nordic/main/firmware.bin",
+  "sha256": "put_sha256_of_firmware_bin_here",
+  "crc32": "put_crc32_here"
 }

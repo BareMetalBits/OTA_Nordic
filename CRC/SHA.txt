@@ -1,0 +1,2 @@
+python -c "import binascii; d=open(r'./update.signed.bin','rb').read(); print(format(binascii.crc32(d)&0xFFFFFFFF,'08x'))"
+(Get-FileHash .\update.signed.bin -Algorithm SHA256).Hash.ToLower()

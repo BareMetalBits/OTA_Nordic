@@ -1,7 +1,7 @@
 {
   "version": "1.1.1",
-  "file_size": 674084,
+  "file_size": 677432,
   "fw_path": "/BareMetalBits/OTA_Nordic/main/zephyr.signed.bin",
-  "sha256": "8e0de862a8041c32eff436073eb54aedc69118a592fddda55e743c8ff3a02ff3",
-  "crc32": "c0844e58"
+  "sha256": "d916485b60dd715e608365c58854136cadf2767325cf4951143961898f374117",
+  "crc32": "26cbb2f8"
 }
